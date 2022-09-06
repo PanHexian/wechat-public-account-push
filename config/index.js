@@ -24,7 +24,7 @@ export const config = {
    *    // 你想对他发送的模板消息的模板ID
    *    useTemplateId: "zjVglIuCXo4CsraXWEio1iP7sZJ7IQEES9lDsgc4yOU",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-   *    openUrl: "https://wangxinleo.cn"
+   *    openUrl: "https://baidu.com"
    *   }, 
    * ]
    */
@@ -37,7 +37,7 @@ export const config = {
    */
 
   // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "bIH8hjPTm16mSnMISE5Qb1jU98cj7t2uTd7TEqk0c74",
+  CALLBACK_TEMPLATE_ID: "Uy_jW5I7oPmWB0M48iOkYIl-_Sc51YzMCF9GshxGrWk",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
