@@ -33,8 +33,8 @@ export const config = {
       name:"潘和弦",
       id:"oU5D16M1fJMKoo_BEraVDJh-9PiU",
       useTemplateId: "Uy_jW5I7oPmWB0M48iOkYIl-_Sc51YzMCF9GshxGrWk",
-      openUrl: "https://baidu.com"
-  ],
+      openUrl: "https://baidu.com"}
+  ]
 
   /**
    * 回调消息 相关，主要用来展示发送是否成功/失败的数据
